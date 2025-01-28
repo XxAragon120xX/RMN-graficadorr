@@ -4,6 +4,8 @@ Este proyecto es una herramienta para generar espectros simulados de Resonancia 
 
 ## Vizualizacion 
 
+![Espectro de RMN del Acetato de Etilo](resultados_rmn/espectro_acetato_etilo.png)
+
 ## Caracteristicas 
 
 Generación de espectros RMN: Crea gráficos basados en datos experimentales.
