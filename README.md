@@ -16,10 +16,15 @@ Resultados exportables: Guarda el espectro generado como una imagen en la carpet
 ## Requisitos
 
 Python 3.8 o superior.
+
 Librerías:
-numpy
-pandas
-matplotlib
+
+-numpy
+
+-pandas
+
+-matplotlib
+
 Archivo de datos ethyl acetate_NMR.csv en la carpeta raíz del proyecto.
 
 ## Estructura del proyecto
